@@ -1,4 +1,4 @@
-#### Twenty-ninteen child theme with sass setup using webpack ####
+#### Twenty-nineteen child theme with sass setup using webpack ####
 
 ** What you should already know **
 - You should already have knowlege of how npm/node works.
