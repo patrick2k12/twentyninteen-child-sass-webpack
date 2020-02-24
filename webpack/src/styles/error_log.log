@@ -1,0 +1,4 @@
+01/29/20 7:16:09: index.scss - unexpected }: failed at `}` D:\xampp\htdocs\connectpay\src/wp-content/themes/connect-pay/webpack/src/styles/components/_menu.scss on line 633
+01/29/20 7:16:19: index.scss - unexpected }: failed at `` D:\xampp\htdocs\connectpay\src/wp-content/themes/connect-pay/webpack/src/styles/components/_menu.scss on line 631
+02/01/20 10:51:51: index.scss - parse error: failed at `max-width:100%:}` /home/pr1/public_html/others.pr1.in/connectpay.pr1.in/connectpay/src/wp-content/themes/connect-pay/webpack/src/styles/components/_general.scss on line 14
+02/01/20 2:11:42: index.scss - parse error: failed at `+` /home/pr1/public_html/others.pr1.in/connectpay.pr1.in/connectpay/src/wp-content/themes/connect-pay/webpack/src/styles/widgets/_pricing.scss on line 5

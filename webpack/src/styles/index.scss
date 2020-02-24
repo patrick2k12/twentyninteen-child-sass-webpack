@@ -1,0 +1,16 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import "../../node_modules/font-awesome/css/font-awesome.css";
+@import url('https://fonts.googleapis.com/css?family=Niramit:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Livvic:400,500,600,700&display=swap');
+@import "utils/mixins";
+@import "utils/variables";
+@import "utils/fonts";  
+@import "utils/animation";
+@import "utils/animate";
+@import "components/buttons";
+@import "components/header";
+@import "components/footer";
+@import "pages/home.scss"; 
+@import "pages/contact";
+@import "components/general";
+
